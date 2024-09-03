@@ -79,7 +79,7 @@ jobs:
           APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
         with:
           tagName: alpha
-          releaseName: "Clash Verge Rev Alpha"
+          releaseName: "Clash Verge OneClick Alpha"
           releaseBody: "More new features are now supported."
           releaseDraft: false
           prerelease: true
@@ -130,7 +130,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: alpha
-          name: "Clash Verge Rev Alpha"
+          name: "Clash Verge OneClick Alpha"
           body: "More new features are now supported."
           prerelease: true
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -211,7 +211,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: alpha
-          name: "Clash Verge Rev Alpha"
+          name: "Clash Verge OneClick Alpha"
           body: "More new features are now supported."
           prerelease: true
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -281,7 +281,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: alpha
-          name: "Clash Verge Rev Alpha"
+          name: "Clash Verge OneClick Alpha"
           body_path: release.txt
           prerelease: true
           token: ${{ secrets.GITHUB_TOKEN }}

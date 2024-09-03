@@ -2,7 +2,7 @@
   "$schema": "../node_modules/@tauri-apps/cli/schema.json",
   "package": {
     "productName": "Clash Verge",
-    "version": "1.7.7"
+    "version": "1.7.8"
   },
   "build": {
     "distDir": "../dist",
@@ -36,7 +36,7 @@
         "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update.json"
       ],
       "dialog": false,
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEQyOEMyRjBCQkVGOUJEREYKUldUZnZmbStDeStNMHU5Mmo1N24xQXZwSVRYbXA2NUpzZE5oVzlqeS9Bc0t6RVV4MmtwVjBZaHgK"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDlDRkE0NTVGQTJFODY3QTcKUldTbloraWlYMFg2bkZYVXFYTjV3MldLOU10Z0FNTDVKT3V2OTdsRnErK1FRL1dKdFRHcUZubHEK"
     },
     "allowlist": {
       "shell": {

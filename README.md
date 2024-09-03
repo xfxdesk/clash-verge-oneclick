@@ -36,6 +36,7 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 - 使用 Clash Verge 专属邀请链接注册送 1 天 1G 流量免费试用：http://xfxssr.top
 - 新人六折专属 6 折优惠码: xfxssr1 (仅有 500 份)
 - 优惠套餐每月仅需 15 元，150G 流量，年付 8 折
+
 - 海外团队，无跑路风险，高达 50% 返佣
 - 集群负载均衡设计，高速专线(兼容老客户端)，极低延迟，无视晚高峰，4K 秒开
 - 解锁流媒体及 ChatGPT

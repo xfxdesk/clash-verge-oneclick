@@ -37,7 +37,7 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 - 海外团队，无跑路风险，高达 50% 返佣
 - 集群负载均衡设计，高速专线(兼容老客户端)，极低延迟，无视晚高峰，4K 秒开
 - 解锁流媒体及 ChatGPT
-- 官网：ttp://xfxssr.top
+- 官网：http://xfxssr.top
 
 ## Features
 

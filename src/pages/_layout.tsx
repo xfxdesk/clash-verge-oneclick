@@ -147,8 +147,8 @@ const Layout = () => {
                 <SvgIcon
                   component={isDark ? iconDark : iconLight}
                   style={{
-                    height: "36px",
-                    width: "36px",
+                    height: "32px",
+                    width: "32px",
                     marginTop: "-3px",
                     marginRight: "5px",
                     marginLeft: "-3px",

@@ -1,3 +1,4 @@
+import QuickPage from "./quick";
 import LogsPage from "./logs";
 import ProxiesPage from "./proxies";
 import TestPage from "./test";
@@ -22,11 +23,18 @@ import ForkRightRoundedIcon from "@mui/icons-material/ForkRightRounded";
 import SubjectRoundedIcon from "@mui/icons-material/SubjectRounded";
 import WifiTetheringRoundedIcon from "@mui/icons-material/WifiTetheringRounded";
 import SettingsRoundedIcon from "@mui/icons-material/SettingsRounded";
+import ElectricBoltIcon from "@mui/icons-material/ElectricBolt";
 
 export const routers = [
   {
-    label: "Label-Proxies",
+    label: "Label-Quick",
     path: "/",
+    icon: [<ElectricBoltIcon />, <ProxiesSvg />],
+    element: <QuickPage />,
+  },
+  {
+    label: "Label-Proxies",
+    path: "/proxies",
     icon: [<WifiRoundedIcon />, <ProxiesSvg />],
     element: <ProxiesPage />,
   },

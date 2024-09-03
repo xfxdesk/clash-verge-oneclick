@@ -17,29 +17,29 @@ A Clash Meta GUI based on <a href="https://github.com/tauri-apps/tauri">Tauri</a
 
 ## Install
 
-请到发布页面下载对应的安装包：[Release page](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
-Go to the [release page](https://github.com/clash-verge-rev/clash-verge-rev/releases) to download the corresponding installation package<br>
+请到发布页面下载对应的安装包：[Release page](https://github.com/xfxdesk/clash-verge-oneclick/releases)<br>
+Go to the [release page](https://github.com/xfxdesk/clash-verge-oneclick/releases) to download the corresponding installation package<br>
 Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
-### 安装说明和常见问题，请到[文档页](https://clash-verge-rev.github.io/)查看：[Doc](https://clash-verge-rev.github.io/)
+### 安装说明和常见问题
+
+一键安装，安装后导入订阅地址，点击一起开启一键加速即可。
 
 ---
 
-### TG Group: [@clash_verge_rev](https://t.me/clash_verge_rev)
+### TG Group: [@clash_verge_oneclick](https://t.me/xfxssr)
 
 ## Promotion
 
-[狗狗加速 —— 技术流机场 Doggygo VPN](https://狗狗加速.com)
+[小飞侠加速 —— 技术流机场 xfxssr VPN](http://xfxssr.top)
 
-- 高性能海外机场，免费试用，优惠套餐，解锁流媒体，全球首家支持 Hysteria 协议。
-- 使用 Clash Verge 专属邀请链接注册送 3 天，每天 1G 流量免费试用：https://verge.狗狗加速.com/#/register?code=oaxsAGo6
-- Clash Verge 专属 8 折优惠码: verge20 (仅有 500 份)
-- 优惠套餐每月仅需 15.8 元，160G 流量，年付 8 折
+- 使用 Clash Verge 专属邀请链接注册送 1 天 1G 流量免费试用：http://xfxssr.top
+- 新人六折专属 6 折优惠码: xfxssr1 (仅有 500 份)
+- 优惠套餐每月仅需 15 元，150G 流量，年付 8 折
 - 海外团队，无跑路风险，高达 50% 返佣
 - 集群负载均衡设计，高速专线(兼容老客户端)，极低延迟，无视晚高峰，4K 秒开
-- 全球首家 Hysteria 协议机场，现已上线更快的 `Hysteria2` 协议(Clash Verge 客户端最佳搭配)
 - 解锁流媒体及 ChatGPT
-- 官网：https://狗狗加速.com
+- 官网：http://xfxssr.top
 
 ## Features
 

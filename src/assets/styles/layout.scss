@@ -101,6 +101,7 @@
       justify-content: end;
       box-sizing: border-box;
       z-index: 2;
+
       .the-dragbar {
         margin-top: 5px;
         app-region: drag;
@@ -155,5 +156,200 @@
       right: 9px;
       top: 2px;
     }
+  }
+}
+
+.quickCon {
+  height: 240px;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  margin: 0 auto;
+  cursor: pointer;
+
+  .quickCon1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ececec;
+    border-radius: 9999px;
+    width: 200px;
+    height: 200px;
+    transition: all 0.3s ease-in-out;
+    animation: con1 3s infinite;
+
+    .quickCon2 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #e0dede;
+      border-radius: 9999px;
+      width: 160px;
+      height: 160px;
+      transition: all 0.3s ease-in-out;
+      animation: con2 3s infinite;
+
+      .quick {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: #ffffff;
+        background-color: #888888;
+        border-radius: 9999px;
+        width: 120px;
+        height: 120px;
+        transition: all 0.3s ease-in-out;
+
+        &:hover {
+          background-color: rgb(98, 98, 98);
+        }
+      }
+    }
+  }
+
+  .aquickCon1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f3f4f5;
+    border-radius: 9999px;
+    width: 210px;
+    height: 210px;
+    transition: all 0.3s ease-in-out;
+    animation: acon1 3s infinite;
+
+    .aquickCon2 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #d3dff1;
+      border-radius: 9999px;
+      width: 160px;
+      height: 160px;
+      transition: all 0.3s ease-in-out;
+      animation: acon2 3s infinite;
+
+      .aquick {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: #ffffff;
+        background-color: #007aff;
+        border-radius: 9999px;
+        width: 120px;
+        height: 120px;
+        transition: all 0.3s ease-in-out;
+
+        &:hover {
+          background-color: #3898ff;
+        }
+      }
+    }
+  }
+}
+
+@keyframes con1 {
+  0% {
+    width: 160px;
+    height: 160px;
+    background-color: transparent;
+  }
+
+  10% {
+    width: 160px;
+    height: 160px;
+    background-color: #f3f4f5;
+  }
+
+  60% {
+    width: 210px;
+    height: 210px;
+    background-color: rgb(240, 240, 240);
+  }
+
+  100% {
+    width: 160px;
+    height: 160px;
+    background-color: transparent;
+  }
+}
+
+@keyframes con2 {
+  0% {
+    width: 120px;
+    height: 120px;
+    background-color: transparent;
+  }
+
+  10% {
+    width: 120px;
+    height: 120px;
+    background-color: #bdbdbd;
+  }
+
+  60% {
+    width: 180px;
+    height: 180px;
+    background-color: rgb(240, 240, 240);
+  }
+
+  100% {
+    width: 120px;
+    height: 120px;
+    background-color: transparent;
+  }
+}
+
+@keyframes acon1 {
+  0% {
+    width: 160px;
+    height: 160px;
+    background-color: transparent;
+  }
+
+  10% {
+    width: 160px;
+    height: 160px;
+    background-color: #ececec;
+  }
+
+  60% {
+    width: 210px;
+    height: 210px;
+    background-color: rgb(240, 240, 240);
+  }
+
+  100% {
+    width: 160px;
+    height: 160px;
+    background-color: transparent;
+  }
+}
+
+@keyframes acon2 {
+  0% {
+    width: 120px;
+    height: 120px;
+    background-color: transparent;
+  }
+
+  10% {
+    width: 120px;
+    height: 120px;
+    background-color: #9bc3ff;
+  }
+
+  60% {
+    width: 180px;
+    height: 180px;
+    background-color: rgb(240, 240, 240);
+  }
+
+  100% {
+    width: 120px;
+    height: 120px;
+    background-color: transparent;
   }
 }

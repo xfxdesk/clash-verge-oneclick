@@ -203,9 +203,9 @@ jobs:
 
       - name: Rename
         run: |
-          Rename-Item '.\src-tauri\target\${{ matrix.target }}\release\bundle\nsis\Clash Verge_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}-setup.exe' 'Clash Verge_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}_fixed_webview2-setup.exe'
-          Rename-Item '.\src-tauri\target\${{ matrix.target }}\release\bundle\nsis\Clash Verge_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}-setup.nsis.zip' 'Clash Verge_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}_fixed_webview2-setup.nsis.zip'
-          Rename-Item '.\src-tauri\target\${{ matrix.target }}\release\bundle\nsis\Clash Verge_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}-setup.nsis.zip.sig' 'Clash Verge_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}_fixed_webview2-setup.nsis.zip.sig'
+          Rename-Item '.\src-tauri\target\${{ matrix.target }}\release\bundle\nsis\Clash Verge OneClick_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}-setup.exe' 'Clash Verge OneClick_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}_fixed_webview2-setup.exe'
+          Rename-Item '.\src-tauri\target\${{ matrix.target }}\release\bundle\nsis\Clash Verge OneClick_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}-setup.nsis.zip' 'Clash Verge OneClick_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}_fixed_webview2-setup.nsis.zip'
+          Rename-Item '.\src-tauri\target\${{ matrix.target }}\release\bundle\nsis\Clash Verge OneClick_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}-setup.nsis.zip.sig' 'Clash Verge OneClick_${{steps.build.outputs.appVersion}}_${{ matrix.arch }}_fixed_webview2-setup.nsis.zip.sig'
 
       - name: Upload Release
         uses: softprops/action-gh-release@v2

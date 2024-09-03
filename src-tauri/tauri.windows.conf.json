@@ -5,7 +5,7 @@
       "iconPath": "icons/tray-icon.ico"
     },
     "bundle": {
-      "identifier": "io.github.clash-verge-rev.clash-verge-rev",
+      "identifier": "io.github.xfxdesk.clash-verge-oneclick",
       "targets": ["nsis", "updater"],
       "windows": {
         "certificateThumbprint": null,

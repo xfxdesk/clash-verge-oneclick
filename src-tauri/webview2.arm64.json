@@ -5,7 +5,7 @@
       "iconPath": "icons/tray-icon.ico"
     },
     "bundle": {
-      "identifier": "io.github.clash-verge-rev.clash-verge-rev",
+      "identifier": "io.github.xfxdesk.clash-verge-oneclick",
       "targets": ["nsis", "updater"],
       "windows": {
         "certificateThumbprint": null,
@@ -29,10 +29,10 @@
       "active": true,
       "dialog": false,
       "endpoints": [
-        "https://download.clashverge.dev/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-fixed-webview2-proxy.json",
-        "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-fixed-webview2.json"
+        "https://download.clashverge.dev/https://github.com/xfxdesk/clash-verge-oneclick/clash-verge-rev/releases/download/updater/update-fixed-webview2-proxy.json",
+        "https://github.com/xfxdesk/clash-verge-oneclick/releases/download/updater/update-fixed-webview2.json"
       ],
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEQyOEMyRjBCQkVGOUJEREYKUldUZnZmbStDeStNMHU5Mmo1N24xQXZwSVRYbXA2NUpzZE5oVzlqeS9Bc0t6RVV4MmtwVjBZaHgK"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDlDRkE0NTVGQTJFODY3QTcKUldTbloraWlYMFg2bkZYVXFYTjV3MldLOU10Z0FNTDVKT3V2OTdsRnErK1FRL1dKdFRHcUZubHEK"
     }
   }
 }

@@ -72,7 +72,7 @@ jobs:
         with:
           tagName: v__VERSION__
           releaseName: "Clash Verge OneClick v__VERSION__"
-          releaseBody: "More new features are now supported."
+          releaseBody: "提交Clash Verge的一键启动版"
           tauriScript: pnpm
           args: --target ${{ matrix.target }}
 

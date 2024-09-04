@@ -31,13 +31,13 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 ## Promotion
 
-[小飞侠加速 —— 技术流机场 xfxssr VPN](http://xfxssr.top)
+[小飞侠加速 —— 技术流机场 小飞侠 VPN](http://xfxssr.top)
 
-- 使用 Clash Verge 专属邀请链接注册送 1 天 1G 流量免费试用：http://xfxssr.top
+- 使用 Clash Verge OneClick 专属邀请链接注册送 1 天 1G 流量免费试用：[快去试试](https://www.yiqidafa.top/xfx/index.html)
 - 新人六折专属 6 折优惠码: xfxssr1 (仅有 500 份)
-- 优惠套餐每月仅需 15 元，150G 流量，年付 8 折
+- 优惠套餐每月仅需 15 元，150G 流量，年付 7.5 折
 
-- 海外团队，无跑路风险，高达 50% 返佣
+- 海外团队，无跑路风险，高达 25% 返佣
 - 集群负载均衡设计，高速专线(兼容老客户端)，极低延迟，无视晚高峰，4K 秒开
 - 解锁流媒体及 ChatGPT
 - 官网：http://xfxssr.top
@@ -72,8 +72,9 @@ Issue and PR welcome!
 
 ## Acknowledgement
 
-Clash Verge rev was based on or inspired by these projects and so on:
+Clash Verge OneClick was based on or inspired by these projects and so on:
 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge): A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Dreamacro/clash](https://github.com/Dreamacro/clash): A rule-based tunnel in Go.

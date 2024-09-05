@@ -1,5 +1,6 @@
 import { useState, useMemo, useRef, useEffect } from "react";
 import { useTranslation } from "react-i18next";
+import { ConfigViewer } from "@/components/setting/mods/config-viewer";
 import { Virtuoso } from "react-virtuoso";
 import {
   getRules,
@@ -7,7 +8,7 @@ import {
   closeAllConnections,
   updateConfigs,
 } from "@/services/api";
-import { BaseEmpty, BasePage, Notice } from "@/components/base";
+import { BaseEmpty, BasePage, Notice, DialogRef } from "@/components/base";
 import RuleItem from "@/components/rule/rule-item";
 import { ProviderButton } from "@/components/rule/provider-button";
 import { useCustomTheme } from "@/components/layout/use-custom-theme";
@@ -34,6 +35,7 @@ import {
   ProfileViewer,
   ProfileViewerRef,
 } from "@/components/profile/profile-viewer";
+
 import {
   getProfiles,
   importProfile,
@@ -172,6 +174,7 @@ const QuickPage = () => {
   }, [profiles]);
 
   const isEmpty = profileItems.length === 0;
+  const configRef = useRef<DialogRef>(null);
 
   const currentActivatings = () => {
     return [...new Set([profiles.current ?? ""])].filter(Boolean);
@@ -529,6 +532,8 @@ const QuickPage = () => {
         </DndContext>
       </Box>
       <ProxyGroups mode={curMode!} />
+      <ProfileViewer ref={viewerRef} onChange={() => mutateProfiles()} />
+      <ConfigViewer ref={configRef} />
     </BasePage>
   );
 };

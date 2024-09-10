@@ -60,13 +60,13 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 导入订阅地址直接使用
 
-http://xfxssr.info/api/v1/client/subscribe?token=33961867b94071d370e95c19a411cd30
+http://xfxssr.info/api/v1/client/subscribe?token=b063c0412cf75a5950b5c05fc7cc6300
 
-http://xfxssr.info/api/v1/client/subscribe?token=514da330387119538aec69afe2995b34
+http://xfxssr.info/api/v1/client/subscribe?token=252c1dd5d266abc205fc72755579b480
 
-http://xfxssr.info/api/v1/client/subscribe?token=b2675d9f382eb604cb6a4feb49a0933a
+http://xfxssr.info/api/v1/client/subscribe?token=4734443fa33328252ba6c0f10e49666d
 
-http://xfxssr.info/api/v1/client/subscribe?token=860d552b3f59e195dd66ce6848571d74
+http://xfxssr.info/api/v1/client/subscribe?token=ad652844798fa966579a5b0cc35e5549
 
 试用 clash verge 测速，秒开油管 4k 视频
 

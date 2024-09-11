@@ -40,11 +40,11 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 - 海外团队，无跑路风险，高达 25% 返佣
 - 集群负载均衡设计，高速专线(兼容老客户端)，极低延迟，无视晚高峰，4K 秒开
 - 解锁流媒体及 ChatGPT
-- 官网：http://xfxssr.top
+- 官网：http://www.xfxssr.life
 
 ### clash 免费订阅 高速稳定机场和免费机场推荐 每日免费
 
-每天定时更新 [去看看](https://xfxssr.life/nav/)
+每天定时更新 [去看看](https://www.xfxssr.life/nav/)
 
 最新，提供 4 个订阅地址 10 高速免费节点，支持 V2Ray、vpn、免费机场、无限流量，免费 VPN，无限流量！V2Ray 节点分享，支持 v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash 机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理
 
@@ -60,13 +60,13 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 导入订阅地址直接使用
 
-http://xfxssr.info/api/v1/client/subscribe?token=b063c0412cf75a5950b5c05fc7cc6300
+http://xfxssr.info/api/v1/client/subscribe?token=583650696c4bfdf1c609c774e5719527
 
-http://xfxssr.info/api/v1/client/subscribe?token=252c1dd5d266abc205fc72755579b480
+http://xfxssr.info/api/v1/client/subscribe?token=bed7ec4fe08a4cf52396e3e5aab894bf
 
-http://xfxssr.info/api/v1/client/subscribe?token=4734443fa33328252ba6c0f10e49666d
+http://xfxssr.info/api/v1/client/subscribe?token=8432c304a9ee6c35f49a446a5f503304
 
-http://xfxssr.info/api/v1/client/subscribe?token=ad652844798fa966579a5b0cc35e5549
+http://xfxssr.info/api/v1/client/subscribe?token=c72b4dc934c0adbb08a88df508db76ab
 
 试用 clash verge 测速，秒开油管 4k 视频
 

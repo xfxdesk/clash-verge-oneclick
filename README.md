@@ -40,13 +40,13 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 - 海外团队，无跑路风险，高达 25% 返佣
 - 集群负载均衡设计，高速专线(兼容老客户端)，极低延迟，无视晚高峰，4K 秒开
 - 解锁流媒体及 ChatGPT
-- 官网：http://www.xfxssr.life
+- 官网：https://xfx.355m.cn
 
 ### clash 免费订阅 高速稳定机场和免费机场推荐 每日免费
 
-每天定时更新 [去看看](https://www.xfxssr.life/nav/)
+每天定时更新 [去看看](https://xfx.355m.cn/nav/)
 
-最新，提供 4 个订阅地址 10 高速免费节点，支持 V2Ray、vpn、免费机场、无限流量，免费 VPN，无限流量！V2Ray 节点分享，支持 v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash 机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理
+最新 2024 年 9 月 12 日，提供 4 个订阅地址 10 高速免费节点，支持 V2Ray、vpn、免费机场、无限流量，免费 VPN，无限流量！V2Ray 节点分享，支持 v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash 机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理
 
 本次更新节点，包括 [美国、新加坡、加拿大、香港、欧洲、日本、韩国等]共 5 个订阅地址，复制下面的节点数据，导入或者粘贴到 v2ray/iso 小火箭/winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash，小火箭！等科学上网工具，直接使用即可
 
@@ -60,13 +60,13 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 导入订阅地址直接使用
 
-http://xfxssr.info/api/v1/client/subscribe?token=583650696c4bfdf1c609c774e5719527
+https://xfx.355m.cn/api/v1/client/subscribe?token=b9e4f2a0e5466ce46b04f8e3b8756676
 
-http://xfxssr.info/api/v1/client/subscribe?token=bed7ec4fe08a4cf52396e3e5aab894bf
+https://xfx.355m.cn/api/v1/client/subscribe?token=e28753a4c3e8217e473283bd89d969e9
 
-http://xfxssr.info/api/v1/client/subscribe?token=8432c304a9ee6c35f49a446a5f503304
+https://xfx.355m.cn/api/v1/client/subscribe?token=19d8a6c3606530afe85d7cf0a6bc4bb9
 
-http://xfxssr.info/api/v1/client/subscribe?token=c72b4dc934c0adbb08a88df508db76ab
+https://xfx.355m.cn/api/v1/client/subscribe?token=604ef849b9f22f5403fdb1c6ee0fd120
 
 试用 clash verge 测速，秒开油管 4k 视频
 

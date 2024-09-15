@@ -31,7 +31,7 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 ## Promotion
 
-[小飞侠加速 —— 技术流机场 小飞侠 VPN](http://xfxssr.top)
+[小飞侠加速 —— 技术流机场 小飞侠 VPN](http://www.xfxssr.me)
 
 - 使用 Clash Verge OneClick 专属邀请链接注册送 1 天 1G 流量免费试用：[快去试试](https://www.yiqidafa.top/xfx/index.html)
 - 新人六折专属 6 折优惠码: xfxssr1 (仅有 500 份)
@@ -40,13 +40,13 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 - 海外团队，无跑路风险，高达 25% 返佣
 - 集群负载均衡设计，高速专线(兼容老客户端)，极低延迟，无视晚高峰，4K 秒开
 - 解锁流媒体及 ChatGPT
-- 官网：https://xfx.355m.cn
+- 官网：https://www.xfxssr.me
 
 ### clash 免费订阅 高速稳定机场和免费机场推荐 每日免费
 
-每天定时更新 [去看看](https://xfx.355m.cn/nav/)
+每天定时更新 [去看看](https://www.xfxssr.me/nav/)
 
-最新 2024 年 9 月 12 日，提供 4 个订阅地址 10 高速免费节点，支持 V2Ray、vpn、免费机场、无限流量，免费 VPN，无限流量！V2Ray 节点分享，支持 v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash 机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理
+最新 2024 年 9 月 16 日，提供 4 个订阅地址 10 高速免费节点，支持 V2Ray、vpn、免费机场、无限流量，免费 VPN，无限流量！V2Ray 节点分享，支持 v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash 机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理
 
 本次更新节点，包括 [美国、新加坡、加拿大、香港、欧洲、日本、韩国等]共 5 个订阅地址，复制下面的节点数据，导入或者粘贴到 v2ray/iso 小火箭/winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash，小火箭！等科学上网工具，直接使用即可
 
@@ -60,13 +60,13 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 导入订阅地址直接使用
 
-https://xfx.355m.cn/api/v1/client/subscribe?token=b9e4f2a0e5466ce46b04f8e3b8756676
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=65d7ad1c22820d3874ba6888a846f9e3
 
-https://xfx.355m.cn/api/v1/client/subscribe?token=e28753a4c3e8217e473283bd89d969e9
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=f93879d412493697177027b5a38e16fc
 
-https://xfx.355m.cn/api/v1/client/subscribe?token=19d8a6c3606530afe85d7cf0a6bc4bb9
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=a7c3afd1e346f587c2b188407895e56e
 
-https://xfx.355m.cn/api/v1/client/subscribe?token=604ef849b9f22f5403fdb1c6ee0fd120
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=39c0bcf70437695eff628105e8d0e0c1
 
 试用 clash verge 测速，秒开油管 4k 视频
 

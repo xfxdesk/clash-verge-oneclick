@@ -46,7 +46,7 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 每天定时更新 [去看看](https://www.xfxssr.me/nav/)
 
-最新 2024 年 9 月 25 日，提供 4 个订阅地址 10 高速免费节点，支持 V2Ray、vpn、免费机场、无限流量，免费 VPN，无限流量！V2Ray 节点分享，支持 v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash 机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理
+最新 2024 年 10 月 9 日，提供 4 个订阅地址 10 高速免费节点，支持 V2Ray、vpn、免费机场、无限流量，免费 VPN，无限流量！V2Ray 节点分享，支持 v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash 机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理
 
 本次更新节点，包括 [美国、新加坡、加拿大、香港、欧洲、日本、韩国等]共 5 个订阅地址，复制下面的节点数据，导入或者粘贴到 v2ray/iso 小火箭/winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash，小火箭！等科学上网工具，直接使用即可
 
@@ -60,13 +60,13 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 导入订阅地址直接使用
 
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=3ef3c31ed28241286606d0d854c2e444
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=51fb60f6fd7cb844485bec0e2996ba7c
 
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=177388b7df2b813e2b214680beca8edd
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=75e27317e960192e4d94ef4696cadbde
 
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=0cfe03d1d748dd1d5c3b67304d02a16d
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=299028eece25578b5ec455a424190d9b
 
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=78550d019fb605f8f0d44cb1345ae874
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=60041417d2bc65ae9d58aa5d98be10d2
 
 试用 clash verge 测速，秒开油管 4k 视频
 
